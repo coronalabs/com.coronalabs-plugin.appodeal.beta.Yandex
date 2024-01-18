@@ -1,0 +1,2 @@
+plugins/2020.3569/iphone-sim/YandexMobileAds.framework/YandexMobileAds filter=lfs diff=lfs merge=lfs -text
+plugins/2020.3569/iphone/YandexMobileAds.framework/YandexMobileAds filter=lfs diff=lfs merge=lfs -text

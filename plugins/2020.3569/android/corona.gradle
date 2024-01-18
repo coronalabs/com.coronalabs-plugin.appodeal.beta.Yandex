@@ -1,4 +1,6 @@
-
+repositories {
+    maven { url "https://artifactory.appodeal.com/appodeal-beta-public" }
+}
 dependencies {
-    implementation("com.appodeal.ads.sdk.networks:yandex:3.0.2.0")
+    implementation("com.appodeal.ads.sdk.networks:yandex:3.2.1.0-beta.1")
 }
